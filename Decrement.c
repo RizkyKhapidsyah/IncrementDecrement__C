@@ -1,3 +1,4 @@
+/* Author: Rizky Khapidsyah */
 
 inline int MainDecrement(void)
 {
