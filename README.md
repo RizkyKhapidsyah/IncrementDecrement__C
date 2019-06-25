@@ -1,5 +1,6 @@
 # IncrementDecrement__C (Dasar)
-Fundamental C: Pengoperasian Operator Increment &amp; Decrement di Pemrograman C: IDE: VS2019 <br><br>
+Fundamental Dasar Pemrograman C : Pengoperasian Operator Increment &amp; Decrement. <br> 
+IDE:VS2019 <br><br>
 <img src="https://github.com/RizkyKhapidsyah/IncrementDecrement__C/blob/master/result/Capture.JPG"><br><br>
 
 List:<br>
