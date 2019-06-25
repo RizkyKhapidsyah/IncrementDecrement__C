@@ -1,3 +1,4 @@
+/* Author: Rizky Khapidsyah */
 
 #include "Definisi_Awal.c"
 #include "Increment.c"
