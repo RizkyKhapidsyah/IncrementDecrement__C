@@ -1,3 +1,5 @@
+/* Author: Rizky Khapidsyah */
+
 inline int PostDanPre_Increment()
 {
 	SetTitlePostPreIn();
