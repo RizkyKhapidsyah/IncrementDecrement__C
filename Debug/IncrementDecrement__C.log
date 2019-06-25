@@ -1,0 +1,19 @@
+﻿  Decrement.c
+C:\BelajarPemrograman\C\IncrementDecrement__C\Decrement.c(7): warning C4013: 'SetTitleDec' undefined; assuming extern returning int
+C:\BelajarPemrograman\C\IncrementDecrement__C\Decrement.c(9): warning C4013: 'printf' undefined; assuming extern returning int
+C:\BelajarPemrograman\C\IncrementDecrement__C\Decrement.c(14): warning C4013: '_getch' undefined; assuming extern returning int
+  Definisi_Awal.c
+  Increment.c
+C:\BelajarPemrograman\C\IncrementDecrement__C\Increment.c(7): warning C4013: 'SetTitleIn' undefined; assuming extern returning int
+C:\BelajarPemrograman\C\IncrementDecrement__C\Increment.c(9): warning C4013: 'printf' undefined; assuming extern returning int
+C:\BelajarPemrograman\C\IncrementDecrement__C\Increment.c(14): warning C4013: '_getch' undefined; assuming extern returning int
+  Main.c
+  Post_Pre_Decrement.c
+C:\BelajarPemrograman\C\IncrementDecrement__C\Post_Pre_Decrement.c(3): warning C4013: 'SetTitlePostPreDec' undefined; assuming extern returning int
+C:\BelajarPemrograman\C\IncrementDecrement__C\Post_Pre_Decrement.c(5): warning C4013: 'printf' undefined; assuming extern returning int
+  Post_Pre_Increment.c
+C:\BelajarPemrograman\C\IncrementDecrement__C\Post_Pre_Increment.c(3): warning C4013: 'SetTitlePostPreIn' undefined; assuming extern returning int
+C:\BelajarPemrograman\C\IncrementDecrement__C\Post_Pre_Increment.c(5): warning C4013: 'printf' undefined; assuming extern returning int
+C:\BelajarPemrograman\C\IncrementDecrement__C\Post_Pre_Increment.c(19): warning C4013: '_getch' undefined; assuming extern returning int
+  Generating Code...
+  IncrementDecrement__C.vcxproj -> C:\BelajarPemrograman\C\IncrementDecrement__C\Debug\IncrementDecrement__C.exe
